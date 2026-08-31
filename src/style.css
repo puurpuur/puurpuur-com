@@ -1,0 +1,25 @@
+body,
+html {
+  background: #175d4c;
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  color: white;
+}
+
+h1 {
+  font-family: "Fraunces", serif;
+  font-optical-sizing: auto;
+  font-weight: 800 !important;
+  font-style: normal;
+  font-variation-settings:
+    "SOFT" 0,
+    "WONK" 0;
+  color: #3be87d !important;
+}
+
+a.contact {
+  background: #3be87d !important;
+  color: #175d4c !important;
+}
