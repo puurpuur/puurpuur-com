@@ -1,11 +1,11 @@
 body,
 html {
-  background: #175d4c;
+  background: #f7f5f0;
   font-family: "Manrope", sans-serif;
   font-optical-sizing: auto;
   font-weight: 600;
   font-style: normal;
-  color: white;
+  color: #35332e;
 }
 
 h1 {
@@ -16,10 +16,10 @@ h1 {
   font-variation-settings:
     "SOFT" 0,
     "WONK" 0;
-  color: #3be87d !important;
+  color: #35332e !important;
 }
 
 a.contact {
-  background: #3be87d !important;
-  color: #175d4c !important;
+  background: #35332e !important;
+  color: white !important;
 }
